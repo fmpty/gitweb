@@ -1,6 +1,14 @@
-# 使用 gh-pages 分支发布（不依赖 deploy-pages API，避免 “Failed to create deployment 404”）。
-# 仓库 Settings → Pages：Build and deployment → Source 选「Deploy from a branch」，
-# Branch 选 gh-pages，文件夹选 / (root)。
+# 发布方式：推送到 gh-pages 分支（peaceiris）。
+#
+# 【必须】与下面设置一致，否则会 404：
+# Settings → Pages → Build and deployment
+#   - Source 选「Deploy from a branch」（不要选「GitHub Actions」）
+#   - Branch 选 gh-pages，文件夹选 / (root)
+# 若 Source 仍是「GitHub Actions」，GitHub 只会认 deploy-pages 的部署，
+# 不会用 gh-pages 分支里的文件，站点会一直 404。
+#
+# 【必须】允许工作流写仓库：Settings → Actions → General → Workflow permissions
+#   勾选「Read and write permissions」，保存。
 
 name: Build and deploy site
 
@@ -35,6 +43,9 @@ jobs:
 
       - name: Disable Jekyll on Pages
         run: touch site/.nojekyll
+
+      - name: Verify build output
+        run: test -f site/index.html || (echo "::error::site/index.html missing" && exit 1)
 
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4

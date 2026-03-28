@@ -34,6 +34,7 @@ markdown_extensions:
 
 nav:
   - 首页: index.md
+  - 指南: guide.md
   - 示例: example.md
 
 plugins:
