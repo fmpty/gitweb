@@ -1,3 +1,7 @@
+# 使用 gh-pages 分支发布（不依赖 deploy-pages API，避免 “Failed to create deployment 404”）。
+# 仓库 Settings → Pages：Build and deployment → Source 选「Deploy from a branch」，
+# Branch 选 gh-pages，文件夹选 / (root)。
+
 name: Build and deploy site
 
 on:
@@ -6,16 +10,14 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: pages
   cancel-in-progress: false
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -31,18 +33,12 @@ jobs:
       - name: Build MkDocs site
         run: mkdocs build --strict
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
+      - name: Disable Jekyll on Pages
+        run: touch site/.nojekyll
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Deploy to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          force_orphan: true
