@@ -41,6 +41,7 @@ nav:
       - 表格与列表: examples/tables.md
       - 代码与命令: examples/code.md
       - 提示与折叠: examples/admonitions.md
+  - 示例合集2: examples/
 
 plugins:
   - search
