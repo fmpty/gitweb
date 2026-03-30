@@ -1,0 +1,327 @@
+# 粘贴到 mkdocs.yml 的 nav: 下（保留缩进；与上下条目对齐）
+  - 历史合集:
+    - "2025-12":
+      - 半截萝卜: content/posts/2025-12/半截萝卜/index.md
+      - 写了个vscode插件: content/posts/2025-12/写了个vscode插件/index.md
+      - 写个手工贴片神器: content/posts/2025-12/写个手工贴片神器/index.md
+    - "2024-02":
+      - 甲辰龙年西游当返: content/posts/2024-02/甲辰龙年西游当返/index.md
+      - 救国就是闭关锁国封建防止道德危机: content/posts/2024-02/救国就是闭关锁国封建防止道德危机/index.md
+      - 后天三千年为一劫: content/posts/2024-02/后天三千年为一劫/index.md
+      - 凤凰浴火重生九紫离火运中华文明再次重回人间: content/posts/2024-02/凤凰浴火重生九紫离火运中华文明再次重回人间/index.md
+      - 修仙不慎便成魔: content/posts/2024-02/修仙不慎便成魔/index.md
+    - "2024-01":
+      - 这两句话将人类道德拉低到六千年来的最低点: content/posts/2024-01/这两句话将人类道德拉低到六千年来的最低点/index.md
+      - 西游记真相作者老周巫师七十二是紫薇圣人的一些证据: content/posts/2024-01/西游记真相作者老周巫师七十二是紫薇圣人的一些证据/index.md
+      - 拆解一个六块多钱66瓦快充充电器: content/posts/2024-01/拆解一个六块多钱66瓦快充充电器/index.md
+      - node-red-体验分享: content/posts/2024-01/node-red-体验分享/index.md
+    - "2023-12":
+      - 酒店牙刷拖鞋定量发放改为按需发放的意义: content/posts/2023-12/酒店牙刷拖鞋定量发放改为按需发放的意义/index.md
+      - 人分九等怎么个标准: content/posts/2023-12/人分九等怎么个标准/index.md
+    - "2023-11":
+      - 面对诈骗真的无解吗恐怕是误解: content/posts/2023-11/面对诈骗真的无解吗恐怕是误解/index.md
+      - 东西方神仙集团的斗争: content/posts/2023-11/东西方神仙集团的斗争/index.md
+    - "2023-10":
+      - 统一不在打打杀杀: content/posts/2023-10/统一不在打打杀杀/index.md
+      - 百家争鸣都是道家思想的分身: content/posts/2023-10/百家争鸣都是道家思想的分身/index.md
+      - 王者多中后期现: content/posts/2023-10/王者多中后期现/index.md
+      - 犹太前世今生: content/posts/2023-10/犹太前世今生/index.md
+      - 强者多心魔: content/posts/2023-10/强者多心魔/index.md
+      - 先天八卦和后天八卦的区别: content/posts/2023-10/先天八卦和后天八卦的区别/index.md
+      - 他为何坍塌: content/posts/2023-10/他为何坍塌/index.md
+      - 一笑倾城局: content/posts/2023-10/一笑倾城局/index.md
+    - "2023-09":
+      - 高架局: content/posts/2023-09/高架局/index.md
+      - 预制菜为什么会火: content/posts/2023-09/预制菜为什么会火/index.md
+      - 预制菜: content/posts/2023-09/预制菜/index.md
+      - 锄奸是一场持久战: content/posts/2023-09/锄奸是一场持久战/index.md
+      - 火葬的阴谋: content/posts/2023-09/火葬的阴谋/index.md
+      - 封神的意义: content/posts/2023-09/封神的意义/index.md
+      - 如何增长经济: content/posts/2023-09/如何增长经济/index.md
+      - 为什么要认清历史: content/posts/2023-09/为什么要认清历史/index.md
+      - 不要过度叫醒一个觉知不够的人: content/posts/2023-09/不要过度叫醒一个觉知不够的人/index.md
+    - "2023-08":
+      - 过了今年没有上船的人以后再也没机会了: content/posts/2023-08/过了今年没有上船的人以后再也没机会了/index.md
+      - 药物接力赛: content/posts/2023-08/药物接力赛/index.md
+      - 神仙打架片段: content/posts/2023-08/神仙打架片段/index.md
+      - 理想国: content/posts/2023-08/理想国/index.md
+      - 核污水他们的算盘: content/posts/2023-08/核污水他们的算盘/index.md
+      - 末日之战: content/posts/2023-08/末日之战/index.md
+      - 幸福家园: content/posts/2023-08/幸福家园/index.md
+      - 今年过后: content/posts/2023-08/今年过后/index.md
+      - 为什么要纠正别人的过错: content/posts/2023-08/为什么要纠正别人的过错/index.md
+    - "2023-07":
+      - 西游记真相节选: content/posts/2023-07/西游记真相节选/index.md
+      - 物质并不存在一切都是能量: content/posts/2023-07/物质并不存在一切都是能量/index.md
+      - 晕车的原因: content/posts/2023-07/晕车的原因/index.md
+      - 思想引起的战争: content/posts/2023-07/思想引起的战争/index.md
+      - 东北那些年: content/posts/2023-07/东北那些年/index.md
+    - "2023-06":
+      - 如何消灭一个民族: content/posts/2023-06/如何消灭一个民族/index.md
+      - 二代皇帝: content/posts/2023-06/二代皇帝/index.md
+    - "2023-05":
+      - 西游记真相题外: content/posts/2023-05/西游记真相题外/index.md
+      - 西游记真相节选: content/posts/2023-05/西游记真相节选/index.md
+      - 开国斩龙脉解决内忧迎内患: content/posts/2023-05/开国斩龙脉解决内忧迎内患/index.md
+      - 一日入清华终生为汉奸: content/posts/2023-05/一日入清华终生为汉奸/index.md
+    - "2023-01":
+      - 戴口罩到底有没用: content/posts/2023-01/戴口罩到底有没用/index.md
+    - "2022-12":
+      - 避开大瘟疫的唯一秘诀在清朝已经预演转载: content/posts/2022-12/避开大瘟疫的唯一秘诀在清朝已经预演转载/index.md
+      - 通过历史治国就如同程序员修旧水管: content/posts/2022-12/通过历史治国就如同程序员修旧水管/index.md
+      - 过度防疫与完全放开皆不好: content/posts/2022-12/过度防疫与完全放开皆不好/index.md
+      - 辉瑞为何治死那么多人还有人视他如至宝: content/posts/2022-12/辉瑞为何治死那么多人还有人视他如至宝/index.md
+      - 老天都看不下去时会启动清理程序: content/posts/2022-12/老天都看不下去时会启动清理程序/index.md
+      - 现代分体式衣服设计缺陷: content/posts/2022-12/现代分体式衣服设计缺陷/index.md
+      - 热武器时代就不需要道士捉妖了吗: content/posts/2022-12/热武器时代就不需要道士捉妖了吗/index.md
+      - 清华谐音侵华什么用意: content/posts/2022-12/清华谐音侵华什么用意/index.md
+      - 新冠病毒减弱过程: content/posts/2022-12/新冠病毒减弱过程/index.md
+      - 教育的缺陷: content/posts/2022-12/教育的缺陷/index.md
+      - 怎么区分身边及评论区里的中日友好学校毕业生: content/posts/2022-12/怎么区分身边及评论区里的中日友好学校毕业生/index.md
+      - 孙德祥-玄天宇宙总指挥部圣母娘传-三界通令: content/posts/2022-12/孙德祥-玄天宇宙总指挥部圣母娘传-三界通令/index.md
+      - 天道敕令: content/posts/2022-12/天道敕令/index.md
+      - 发烧真的会烧坏脑子吗: content/posts/2022-12/发烧真的会烧坏脑子吗/index.md
+      - 人群里有八成的人是npc: content/posts/2022-12/人群里有八成的人是npc/index.md
+      - 人均寿命在增长是谬论: content/posts/2022-12/人均寿命在增长是谬论/index.md
+      - 二进制计算机并不能实现高等独立机格: content/posts/2022-12/二进制计算机并不能实现高等独立机格/index.md
+      - 九成炎症皆因火: content/posts/2022-12/九成炎症皆因火/index.md
+    - "2022-11":
+      - 预言的警示作用: content/posts/2022-11/预言的警示作用/index.md
+      - 雷公问风伯: content/posts/2022-11/雷公问风伯/index.md
+      - 许多一二线城市没有专用下水道: content/posts/2022-11/许多一二线城市没有专用下水道/index.md
+      - 解读圣字: content/posts/2022-11/解读圣字/index.md
+      - 能改变的是欲将改变的: content/posts/2022-11/能改变的是欲将改变的/index.md
+      - 紫薇星圣人不能是旗杆般的存在: content/posts/2022-11/紫薇星圣人不能是旗杆般的存在/index.md
+      - 紫微的任务: content/posts/2022-11/紫微的任务/index.md
+      - 紫圣亦无身亦无数身: content/posts/2022-11/紫圣亦无身亦无数身/index.md
+      - 知来者知往也: content/posts/2022-11/知来者知往也/index.md
+      - 梦到土地庙传话相信科学: content/posts/2022-11/梦到土地庙传话相信科学/index.md
+      - 时间停止与无重力同时发生: content/posts/2022-11/时间停止与无重力同时发生/index.md
+      - 推荐阅读: content/posts/2022-11/推荐阅读/index.md
+      - 所谓圣人转世都是对号入座: content/posts/2022-11/所谓圣人转世都是对号入座/index.md
+      - 懂王的功与过: content/posts/2022-11/懂王的功与过/index.md
+      - 当地主控制舆论: content/posts/2022-11/当地主控制舆论/index.md
+      - 寻找舰队成员: content/posts/2022-11/寻找舰队成员/index.md
+      - 对与错的非对立性: content/posts/2022-11/对与错的非对立性/index.md
+      - 宇宙是个菜园子: content/posts/2022-11/宇宙是个菜园子/index.md
+      - 如何是积德那如何又不是: content/posts/2022-11/如何是积德那如何又不是/index.md
+      - 奶牛为何常年产奶: content/posts/2022-11/奶牛为何常年产奶/index.md
+      - 土法理解天将降大运于是人也: content/posts/2022-11/土法理解天将降大运于是人也/index.md
+      - 几个零魂出体的瞬间: content/posts/2022-11/几个零魂出体的瞬间/index.md
+      - 何生情: content/posts/2022-11/何生情/index.md
+      - 何为大圣何为小圣: content/posts/2022-11/何为大圣何为小圣/index.md
+      - 但行圣人之事-莫求圣人之名: content/posts/2022-11/但行圣人之事-莫求圣人之名/index.md
+      - 人员失踪如果没人关心是不是就没机会立案: content/posts/2022-11/人员失踪如果没人关心是不是就没机会立案/index.md
+      - 为何佛会保佑你呀: content/posts/2022-11/为何佛会保佑你呀/index.md
+      - 中西医药的区别: content/posts/2022-11/中西医药的区别/index.md
+      - 中国即须设立一个最高奖项-鲁班奖规格必须大于诺贝尔奖: content/posts/2022-11/中国即须设立一个最高奖项-鲁班奖规格必须大于诺贝尔奖/index.md
+      - 中医至少有二十万年历史: content/posts/2022-11/中医至少有二十万年历史/index.md
+      - 一种核酸检测的校验方法: content/posts/2022-11/一种核酸检测的校验方法/index.md
+      - 一次又一次的降维阴极阳生: content/posts/2022-11/一次又一次的降维阴极阳生/index.md
+      - mo言是西方扭曲我们价值观的棋子: content/posts/2022-11/mo言是西方扭曲我们价值观的棋子/index.md
+    - "2022-10":
+      - 通灵人: content/posts/2022-10/通灵人/index.md
+      - 轮回人的特征: content/posts/2022-10/轮回人的特征/index.md
+      - 谁主封神: content/posts/2022-10/谁主封神/index.md
+      - 记忆被清除了你还是你吗: content/posts/2022-10/记忆被清除了你还是你吗/index.md
+      - 觉醒年代: content/posts/2022-10/觉醒年代/index.md
+      - 觉醒与使命: content/posts/2022-10/觉醒与使命/index.md
+      - 营养因人而异: content/posts/2022-10/营养因人而异/index.md
+      - 能见飘怎么办: content/posts/2022-10/能见飘怎么办/index.md
+      - 能度人者未必能度己: content/posts/2022-10/能度人者未必能度己/index.md
+      - 知通变事半功倍: content/posts/2022-10/知通变事半功倍/index.md
+      - 癫痫的原因: content/posts/2022-10/癫痫的原因/index.md
+      - 生活中的风水局: content/posts/2022-10/生活中的风水局/index.md
+      - 灵魂能不能独立肉体存在: content/posts/2022-10/灵魂能不能独立肉体存在/index.md
+      - 灵感应强度: content/posts/2022-10/灵感应强度/index.md
+      - 正道出妖魔尽: content/posts/2022-10/正道出妖魔尽/index.md
+      - 昨夜二更梦鲁班示百种法: content/posts/2022-10/昨夜二更梦鲁班示百种法/index.md
+      - 无德不成道: content/posts/2022-10/无德不成道/index.md
+      - 新冠源起: content/posts/2022-10/新冠源起/index.md
+      - 摘录: content/posts/2022-10/摘录/index.md
+      - 应天命度世劫: content/posts/2022-10/应天命度世劫/index.md
+      - 如何才能让中医等华夏文化崛起: content/posts/2022-10/如何才能让中医等华夏文化崛起/index.md
+      - 如何吸取宇宙能量: content/posts/2022-10/如何吸取宇宙能量/index.md
+      - 天将降大运于-人也: content/posts/2022-10/天将降大运于-人也/index.md
+      - 大运将至: content/posts/2022-10/大运将至/index.md
+      - 大器免成与晚成: content/posts/2022-10/大器免成与晚成/index.md
+      - 地下世界: content/posts/2022-10/地下世界/index.md
+      - 古法防治口唇干裂: content/posts/2022-10/古法防治口唇干裂/index.md
+      - 古埃及复活术: content/posts/2022-10/古埃及复活术/index.md
+      - 历代得道高人纷纷下来共创大同盛世: content/posts/2022-10/历代得道高人纷纷下来共创大同盛世/index.md
+      - 先有鸡还是先有蛋: content/posts/2022-10/先有鸡还是先有蛋/index.md
+      - 儒释道三家的精髓: content/posts/2022-10/儒释道三家的精髓/index.md
+      - 修道的目的: content/posts/2022-10/修道的目的/index.md
+      - 修仙的副产物而已: content/posts/2022-10/修仙的副产物而已/index.md
+      - 你可以改变世界: content/posts/2022-10/你可以改变世界/index.md
+      - 何时丧医德: content/posts/2022-10/何时丧医德/index.md
+      - 何为科学: content/posts/2022-10/何为科学/index.md
+      - 何为末法回光返照: content/posts/2022-10/何为末法回光返照/index.md
+      - 何为持戒: content/posts/2022-10/何为持戒/index.md
+      - 何为善易者不卜: content/posts/2022-10/何为善易者不卜/index.md
+      - 何为修道: content/posts/2022-10/何为修道/index.md
+      - 何为以太: content/posts/2022-10/何为以太/index.md
+      - 传说未法仙多呀: content/posts/2022-10/传说未法仙多呀/index.md
+      - 从焚书坑儒看世界大同: content/posts/2022-10/从焚书坑儒看世界大同/index.md
+      - 今昔往昔师不同: content/posts/2022-10/今昔往昔师不同/index.md
+      - 乔帮主的因果: content/posts/2022-10/乔帮主的因果/index.md
+      - 为何近代无人能精通奇门遁甲: content/posts/2022-10/为何近代无人能精通奇门遁甲/index.md
+      - 为何空能见真相: content/posts/2022-10/为何空能见真相/index.md
+      - 为何科学总被自己推翻: content/posts/2022-10/为何科学总被自己推翻/index.md
+      - 为何佛经里的论述无法被推翻: content/posts/2022-10/为何佛经里的论述无法被推翻/index.md
+      - 中文没有语法: content/posts/2022-10/中文没有语法/index.md
+      - "54运动的深远用意": content/posts/2022-10/54运动的深远用意/index.md
+    - "2022-09":
+      - 魔法时代的成因: content/posts/2022-09/魔法时代的成因/index.md
+      - 风水: content/posts/2022-09/风水/index.md
+      - 道之有道: content/posts/2022-09/道之有道/index.md
+      - 造屋间数与吉凶: content/posts/2022-09/造屋间数与吉凶/index.md
+      - 这几批下来的人相继被唤醒: content/posts/2022-09/这几批下来的人相继被唤醒/index.md
+      - 诸葛亮的三生三世: content/posts/2022-09/诸葛亮的三生三世/index.md
+      - 许多人不止一个灵魂: content/posts/2022-09/许多人不止一个灵魂/index.md
+      - 给初学易经者的一些建议: content/posts/2022-09/给初学易经者的一些建议/index.md
+      - 精气神可仙: content/posts/2022-09/精气神可仙/index.md
+      - 科学起初是好的: content/posts/2022-09/科学起初是好的/index.md
+      - 科学与道背驰: content/posts/2022-09/科学与道背驰/index.md
+      - 离火愁: content/posts/2022-09/离火愁/index.md
+      - 祝由术的原理: content/posts/2022-09/祝由术的原理/index.md
+      - 矛的时代: content/posts/2022-09/矛的时代/index.md
+      - 生男生女法: content/posts/2022-09/生男生女法/index.md
+      - 牙垢的用途: content/posts/2022-09/牙垢的用途/index.md
+      - 溺水救生法: content/posts/2022-09/溺水救生法/index.md
+      - 气滞血瘀: content/posts/2022-09/气滞血瘀/index.md
+      - 每日一经: content/posts/2022-09/每日一经/index.md
+      - 梦屏: content/posts/2022-09/梦屏/index.md
+      - 是什么给了科学家如此大的口气是无知吗: content/posts/2022-09/是什么给了科学家如此大的口气是无知吗/index.md
+      - 易经与道德经: content/posts/2022-09/易经与道德经/index.md
+      - 易经与占卜: content/posts/2022-09/易经与占卜/index.md
+      - 无极论: content/posts/2022-09/无极论/index.md
+      - 悟空的修行路: content/posts/2022-09/悟空的修行路/index.md
+      - 心之力读后感之鸡蛋相生: content/posts/2022-09/心之力读后感之鸡蛋相生/index.md
+      - 心-之-力读后后感: content/posts/2022-09/心-之-力读后后感/index.md
+      - 当正法灭: content/posts/2022-09/当正法灭/index.md
+      - 当信仰科学崩塌: content/posts/2022-09/当信仰科学崩塌/index.md
+      - 张三丰内丹36诀-全文版: content/posts/2022-09/张三丰内丹36诀-全文版/index.md
+      - 宇宙图书馆: content/posts/2022-09/宇宙图书馆/index.md
+      - 天上下凡三千灵体帮地球度过劫难: content/posts/2022-09/天上下凡三千灵体帮地球度过劫难/index.md
+      - 外在是内在的显化: content/posts/2022-09/外在是内在的显化/index.md
+      - 反重力: content/posts/2022-09/反重力/index.md
+      - 关于进化论的非二元理论: content/posts/2022-09/关于进化论的非二元理论/index.md
+      - 元宇宙: content/posts/2022-09/元宇宙/index.md
+      - 儒释道: content/posts/2022-09/儒释道/index.md
+      - 修仙精要: content/posts/2022-09/修仙精要/index.md
+      - 何谓魔法: content/posts/2022-09/何谓魔法/index.md
+      - 何谓谣: content/posts/2022-09/何谓谣/index.md
+      - 何生相: content/posts/2022-09/何生相/index.md
+      - 何生病: content/posts/2022-09/何生病/index.md
+      - 何生慧: content/posts/2022-09/何生慧/index.md
+      - 何为焚禁: content/posts/2022-09/何为焚禁/index.md
+      - 九阳: content/posts/2022-09/九阳/index.md
+      - 九紫离火运: content/posts/2022-09/九紫离火运/index.md
+      - 为华夏文明之振兴中华文化之崛起而读书: content/posts/2022-09/为华夏文明之振兴中华文化之崛起而读书/index.md
+      - 中医经典著作: content/posts/2022-09/中医经典著作/index.md
+      - 不干不净吃了没病: content/posts/2022-09/不干不净吃了没病/index.md
+      - 一个笑话: content/posts/2022-09/一个笑话/index.md
+    - "2022-08":
+      - 防疫精要: content/posts/2022-08/防疫精要/index.md
+      - 统一台湾: content/posts/2022-08/统一台湾/index.md
+      - 建国后不许成精是怎么做到的: content/posts/2022-08/建国后不许成精是怎么做到的/index.md
+      - 发现一个不错的中医网站: content/posts/2022-08/发现一个不错的中医网站/index.md
+      - 医者: content/posts/2022-08/医者/index.md
+      - 三聚氰背后的惊天秘密: content/posts/2022-08/三聚氰背后的惊天秘密/index.md
+      - excel自动替换-工具: content/posts/2022-08/excel自动替换-工具/index.md
+      - "35所日本学校是经谁批准修建了受贿了多少元": content/posts/2022-08/35所日本学校是经谁批准修建了受贿了多少元/index.md
+    - "2022-07":
+      - 龙脉修复时人民觉醒日: content/posts/2022-07/龙脉修复时人民觉醒日/index.md
+      - 解决-macbook-键盘双击问题: content/posts/2022-07/解决-macbook-键盘双击问题/index.md
+      - 对的时代: content/posts/2022-07/对的时代/index.md
+      - 反噬的原理: content/posts/2022-07/反噬的原理/index.md
+    - "2022-06":
+      - 气功-是力量的延深源于念力的加持: content/posts/2022-06/气功-是力量的延深源于念力的加持/index.md
+    - "2022-05":
+      - 充电宝改-nas-git外网服务器: content/posts/2022-05/充电宝改-nas-git外网服务器/index.md
+      - window-to-linux下最好用的-rsync-方式: content/posts/2022-05/window-to-linux下最好用的-rsync-方式/index.md
+      - openwrt-git-与-sourcetree-冲突解决方法: content/posts/2022-05/openwrt-git-与-sourcetree-冲突解决方法/index.md
+    - "2022-04":
+      - 假如上帝是个程序员: content/posts/2022-04/假如上帝是个程序员/index.md
+    - "2022-03":
+      - 科学无德而道有德: content/posts/2022-03/科学无德而道有德/index.md
+      - 关于人口宏观调控: content/posts/2022-03/关于人口宏观调控/index.md
+    - "2022-02":
+      - 当资源无法满足需求: content/posts/2022-02/当资源无法满足需求/index.md
+    - "2022-01":
+      - 做一个低成本usb-power-monitor: content/posts/2022-01/做一个低成本usb-power-monitor/index.md
+      - 五块钱成本做一个百元音质麦克风: content/posts/2022-01/五块钱成本做一个百元音质麦克风/index.md
+    - "2021-12":
+      - 科学究竟是什么: content/posts/2021-12/科学究竟是什么/index.md
+      - 直播带货有错吗: content/posts/2021-12/直播带货有错吗/index.md
+      - 收到了沁恒微-ch573样品-支持-蓝牙-的risc-v-架构芯片-测试了下满意就是例程有些少: content/posts/2021-12/收到了沁恒微-ch573样品-支持-蓝牙-的risc-v-架构芯片-测试了下满意就是例程有些少/index.md
+      - 做了个晶体管测试仪比万用表好用: content/posts/2021-12/做了个晶体管测试仪比万用表好用/index.md
+    - "2021-11":
+      - 一节15v电池供电鼠标改装锂电池供电: content/posts/2021-11/一节15v电池供电鼠标改装锂电池供电/index.md
+      - dlib-大法好: content/posts/2021-11/dlib-大法好/index.md
+    - "2021-10":
+      - 成功破译-hi3516-两道防线-密码-和-uuid-绑定: content/posts/2021-10/成功破译-hi3516-两道防线-密码-和-uuid-绑定/index.md
+      - w806-实测了下-io翻转速度差不多1khz-实属鸡肋: content/posts/2021-10/w806-实测了下-io翻转速度差不多1khz-实属鸡肋/index.md
+      - scratch-blocks-实现-按钮-按下开灯再按下关灯-的应用: content/posts/2021-10/scratch-blocks-实现-按钮-按下开灯再按下关灯-的应用/index.md
+    - "2021-09":
+      - vr: content/posts/2021-09/vr/index.md
+    - "2021-08":
+      - 股市实时监控: content/posts/2021-08/股市实时监控/index.md
+      - 笔记本水冷改装: content/posts/2021-08/笔记本水冷改装/index.md
+    - "2021-07":
+      - 蓝牙电调: content/posts/2021-07/蓝牙电调/index.md
+    - "2021-06":
+      - 蓝牙编程核心板: content/posts/2021-06/蓝牙编程核心板/index.md
+      - 婴儿睡眠监护器amp最小巧的温湿度记录仪: content/posts/2021-06/婴儿睡眠监护器amp最小巧的温湿度记录仪/index.md
+    - "2021-01":
+      - 小作坊第一集: content/posts/2021-01/小作坊第一集/index.md
+    - "2020-12":
+      - 遥控改io-控制方案: content/posts/2020-12/遥控改io-控制方案/index.md
+      - 做一个水墨屏气象站: content/posts/2020-12/做一个水墨屏气象站/index.md
+      - kicad-视频教程: content/posts/2020-12/kicad-视频教程/index.md
+    - "2020-11":
+      - 拆了一个oid-机器人: content/posts/2020-11/拆了一个oid-机器人/index.md
+    - "2020-10":
+      - 世人慌慌张张不过碎银几两: content/posts/2020-10/世人慌慌张张不过碎银几两/index.md
+    - "2020-09":
+      - 做一个编程游戏机: content/posts/2020-09/做一个编程游戏机/index.md
+      - 修改-ubuntu-允许局域网-root-默认登录: content/posts/2020-09/修改-ubuntu-允许局域网-root-默认登录/index.md
+      - docker-创建容器-启动-ssh-映射-端口-设置名字: content/posts/2020-09/docker-创建容器-启动-ssh-映射-端口-设置名字/index.md
+    - "2020-08":
+      - 广西行: content/posts/2020-08/广西行/index.md
+    - "2020-07":
+      - 逆向了一个k210板: content/posts/2020-07/逆向了一个k210板/index.md
+      - 无感无刷直流电机之电调设计全攻略: content/posts/2020-07/无感无刷直流电机之电调设计全攻略/index.md
+      - 广树-typecho-island-主题-最新版本-支持-主页搜素: content/posts/2020-07/广树-typecho-island-主题-最新版本-支持-主页搜素/index.md
+      - 利用-文件变动监测-并通过ssh同步到树莓派: content/posts/2020-07/利用-文件变动监测-并通过ssh同步到树莓派/index.md
+      - 利用-文件变动监测-并通过ftp同步到网站后台: content/posts/2020-07/利用-文件变动监测-并通过ftp同步到网站后台/index.md
+      - 修复一个喷雾器加湿器加湿器拆解: content/posts/2020-07/修复一个喷雾器加湿器加湿器拆解/index.md
+    - "2020-06":
+      - 沙河: content/posts/2020-06/沙河/index.md
+      - 树莓派4-烧录后-使能串口登陆-和-wifi-配置: content/posts/2020-06/树莓派4-烧录后-使能串口登陆-和-wifi-配置/index.md
+      - 树莓派-40pin-引脚对照表: content/posts/2020-06/树莓派-40pin-引脚对照表/index.md
+      - 咸鱼收的电子货架标签: content/posts/2020-06/咸鱼收的电子货架标签/index.md
+      - pip3-无法-安装https-的源: content/posts/2020-06/pip3-无法-安装https-的源/index.md
+      - phy6212ph6202-串口下载协议: content/posts/2020-06/phy6212ph6202-串口下载协议/index.md
+      - phy6202-添加ota服务: content/posts/2020-06/phy6202-添加ota服务/index.md
+      - phy6202-添加-看门狗watchdog: content/posts/2020-06/phy6202-添加-看门狗watchdog/index.md
+      - phy6202-引脚笔记: content/posts/2020-06/phy6202-引脚笔记/index.md
+    - "2020-05":
+      - 蓝牙makeymakey: content/posts/2020-05/蓝牙makeymakey/index.md
+      - 编程绘画-安卓编程软件-废旧安卓变废为宝: content/posts/2020-05/编程绘画-安卓编程软件-废旧安卓变废为宝/index.md
+      - 推荐一款每日壁纸-微软必应壁纸: content/posts/2020-05/推荐一款每日壁纸-微软必应壁纸/index.md
+      - 推荐一本书荣格与炼金术: content/posts/2020-05/推荐一本书荣格与炼金术/index.md
+      - 发现一个-win-文件清理工具特别好用-wiz-tree: content/posts/2020-05/发现一个-win-文件清理工具特别好用-wiz-tree/index.md
+    - "2020-03":
+      - 古人很容易开发预知能力而现在人却很难: content/posts/2020-03/古人很容易开发预知能力而现在人却很难/index.md
+    - "2020-02":
+      - 烧饼歌: content/posts/2020-02/烧饼歌/index.md
+    - "2019-11":
+      - 随身数据库: content/posts/2019-11/随身数据库/index.md
+      - 张医生第二次开药: content/posts/2019-11/张医生第二次开药/index.md
+      - 局域网通过模拟http协议共享文件: content/posts/2019-11/局域网通过模拟http协议共享文件/index.md
+      - 分享一个蓝牙ble调试小程序lightblue: content/posts/2019-11/分享一个蓝牙ble调试小程序lightblue/index.md
+      - python-opencv环境搭建: content/posts/2019-11/python-opencv环境搭建/index.md
+    - "2019-10":
+      - 无极论-宇宙大到无穷粒子小到无穷: content/posts/2019-10/无极论-宇宙大到无穷粒子小到无穷/index.md
